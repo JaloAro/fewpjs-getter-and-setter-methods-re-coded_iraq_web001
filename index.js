@@ -5,19 +5,17 @@ class Circle{
         this.radius=radius;
     }
  
- get diameter(diameter){
-   
-   return this.diameter=diameter
-   
-   
- }
  
   set diameter(){
-    this.diameter=this.;
+    this.diameter=this.radius*2;
  }
  
+ get diameter(diameter){
+   
+   return this.diameter;
+ }
  
- 
+
  get circumference(){
    
  }
