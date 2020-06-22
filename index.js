@@ -17,12 +17,10 @@ class Circle{
  
 
  get circumference(){
-      this.Circumference = Math.Pi • diameter
+      this.Circumference = Math.PI*diameter
  }
  
- set circumference(){
-      
- }
+ 
  
  get area(){
    
