@@ -16,6 +16,8 @@ get diameter(){
   }
   
 
+
+
  get circumference(){
       this.Circumference = Math.PI*diameter
  }
