@@ -10,18 +10,18 @@ class Circle{
     this.diameter=this.radius*2;
  }
  
- get diameter(diameter){
+ get diameter(){
    
    return this.diameter;
  }
  
 
  get circumference(){
-   
+      this.Circumference = Math.Pi • diameter
  }
  
  set circumference(){
-   
+      
  }
  
  get area(){
