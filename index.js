@@ -9,6 +9,10 @@ class Circle{
    
  }
  
+  set diameter(){
+   
+ }
+ 
  
  
  get circumference(){
