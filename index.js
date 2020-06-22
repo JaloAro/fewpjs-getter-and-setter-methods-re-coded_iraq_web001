@@ -30,6 +30,3 @@ class Circle{
   }
   
 }
-let circle = new Circle(7)
- circle.diameter = 14
- circle.circumference = 44
