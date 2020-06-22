@@ -5,12 +5,15 @@ class Circle{
         this.radius=radius;
     }
  
- get diameter(){
+ get diameter(diameter){
+   
+   return this.diameter=diameter
+   
    
  }
  
   set diameter(){
-   
+    this.diameter=this.;
  }
  
  
@@ -24,6 +27,11 @@ class Circle{
  }
  
  get area(){
+   
+   
+ }
+ 
+ set area(){
    
    
  }
