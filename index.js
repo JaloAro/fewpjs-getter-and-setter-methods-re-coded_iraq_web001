@@ -5,7 +5,9 @@ class Circle{
         this.radius=radius;
     }
  
- 
+ get diameter(){
+   
+ }
   
   
   
