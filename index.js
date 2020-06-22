@@ -9,7 +9,14 @@ class Circle{
    
  }
  
+ set 
+ 
  get circumference(){
+   
+ }
+ 
+ get area(){
+   
    
  }
   
