@@ -6,15 +6,14 @@ class Circle{
     }
  
  
-  set diameter(){
-    this.diameter=this.radius*2;
- }
- 
- get diameter(){
-   
-   return this.diameter;
- }
- 
+   set diameter(diameter){
+    this.radius = diameter/2;
+  }
+  
+  
+get diameter(){
+    return this.radius*2;
+  }
 
  get circumference(){
       this.Circumference = Math.PI*diameter
